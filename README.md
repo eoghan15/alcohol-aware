@@ -1,4 +1,6 @@
 cheap-drink-win
 ===============
-
-Compare prices against alcohol quantity, compare alcohol consumption between users
+Compare:
+1. Alcohol prices vs. alcohol quantity between different drinks
+2. Alcohol consumption between multiple users
+3. 
