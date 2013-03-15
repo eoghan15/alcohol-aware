@@ -1,4 +1,4 @@
-cheap-drink-win
+alcohol-aware
 ===============
 Compare:
 1. Alcohol prices vs. alcohol quantity between different drinks
